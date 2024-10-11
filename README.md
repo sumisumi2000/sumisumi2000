@@ -16,9 +16,7 @@
   </a>
 </p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumisumi2000&theme=solarized)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sumisumi2000&theme=solarized)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sumisumi2000&theme=solarized)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sumisumi2000&theme=solarized)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sumisumi2000&theme=solarized&utcOffset=8)
-[![trophy](https://github-profile-trophy.vercel.app/?username=sumisumi2000&theme=oldie)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="left"> 
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=sumisumi2000&count_private=true&theme=cobalt&layout=compact" />
+  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumisumi2000&theme=cobalt&layout=compact" />
+</div>
